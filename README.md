@@ -1,4 +1,4 @@
-# Machine Learning for Data Science (2018)
+# Machine Learning for Data Science (July 2018 - Udacity Data Science Nano Degree)
 Machine learning has three main categories:
 - Supervised Learning
 - Unsupervised Learning
