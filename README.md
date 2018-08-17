@@ -18,3 +18,11 @@ Two categories of supervised learning are:
 - [Regularization](https://github.com/RohitSattu/data_science/blob/master/regularization.py)
 - [Feature Scaling](https://github.com/RohitSattu/data_science/blob/master/feature_scaling.py)
 
+### Classification
+- [Perceptron](https://github.com/RohitSattu/data_science/blob/master/perceptron.py)
+- [Perceptron as Logical 'AND' Operator](https://github.com/RohitSattu/data_science/blob/master/and_perceptron.py)
+- [Perceptron as Logical 'OR' Operator](https://github.com/RohitSattu/data_science/blob/master/or_perceptron.py)
+- [Perceptron as Logical 'NOT' Operator](https://github.com/RohitSattu/data_science/blob/master/not_perceptron.py)
+- [Decision Tree Classifier](https://github.com/RohitSattu/data_science/blob/master/decision_tree.py)
+- [Titanic Survival Model with Decision Tree Classifier](https://github.com/RohitSattu/data_science/blob/master/titanic_survival_exploration.ipynb)
+- [Spam Classifier with Naive Bayes Algorithm](https://github.com/RohitSattu/data_science/blob/master/Bayesian_Inference.ipynb)
