@@ -1,3 +1,4 @@
+# import statements
 import pandas as pd
 
 # Set weight1, weight2, and bias
