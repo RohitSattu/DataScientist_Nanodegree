@@ -22,3 +22,4 @@ sample_house = [[2.29690000e-01, 0.00000000e+00, 1.05900000e+01, 0.00000000e+00,
 # Predict housing price for the sample_house
 prediction = model.predict(sample_house)
 print(prediction)
+ 
