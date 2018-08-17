@@ -4,9 +4,6 @@ Machine learning has three main categories:
 - Unsupervised Learning
 - Reinforcement Learning
 
-##### Scikit Learn
-Scikit Learn is an open source library for solving Supervised and Unsupervised learning problems.
-
 ## Supervised Machine Learning
 In supervised machine learning, algorithms learn from labeled data and predict outcomes.
 Two categories of supervised learning are:
