@@ -31,4 +31,4 @@ print(reg_coef)
 # Feature scaling is a way of transforming your data
 # into a common range of values. There are two common scalings:
 # Standardizing
-# Normalizing
+# Normalizing 
