@@ -1,4 +1,4 @@
-# Add import statements
+# import statements
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
