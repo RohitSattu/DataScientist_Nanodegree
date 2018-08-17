@@ -1,4 +1,4 @@
-# Import statements
+# import statements
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 import pandas as pd
