@@ -6,7 +6,7 @@ Machine learning has three main categories:
 - Reinforcement Learning
 
 ## Supervised Machine Learning
-In supervised machine learning, algorithms learn from labeled data and predict outcomes.
+In supervised machine learning, algorithms learn from labeled data and predict outcomes. [Labeled data -> Labeling data]
 Two categories of supervised learning are:
 - Regression (Numerical Outcomes)
 - Classification (Categorical Outcomes)
