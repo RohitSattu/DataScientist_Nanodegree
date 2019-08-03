@@ -11,8 +11,8 @@ In supervised machine learning, algorithms learn from labeled data and predict o
 [Computer: Labeled data -> Labeling data]
 
 Two categories of supervised learning are:
-- Regression (Numerical Outcomes)
-- Classification (Categorical Outcomes)
+- Regression (Numerical Outcomes) [Home Price, Stats]
+- Classification (Categorical Outcomes) [Yes or No] [cat1 or cat2 or cat3 or more]
 
 ### Regression
 - [Gradient Descent](https://github.com/RohitSattu/data_science/blob/master/gradient_descent.py)
@@ -30,3 +30,16 @@ Two categories of supervised learning are:
 - [Decision Tree Classifier](https://github.com/RohitSattu/data_science/blob/master/decision_tree.py)
 - [Titanic Survival Model with Decision Tree Classifier](https://github.com/RohitSattu/data_science/blob/master/titanic_survival_exploration.ipynb)
 - [Spam Classifier with Naive Bayes Algorithm](https://github.com/RohitSattu/data_science/blob/master/Bayesian_Inference.ipynb)
+
+## Unsupervised Learning
+Creates models without labels on data. 
+- [Grouping Items, Music recommendation Systems]
+
+## Re-inforcement Learning
+Takes certain action and receives rewards based on those actions
+- [Self-Driving Cars, game playing agents]
+
+# Deep Learning for Data Science
+- Requires
+-- Alot of computing
+-- Alot of data
